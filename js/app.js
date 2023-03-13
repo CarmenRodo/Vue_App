@@ -9,14 +9,14 @@ const app = new Vue({
         author: "George Orwell",
         description:
           "A dystopian novel set in Airstrip One, a province of the superstate Oceania in a world of perpetual war, omnipresent government surveillance, and public manipulation.",
-        isFavorite: true,
+        isFavorite: false,
       },
       {
         title: "To Kill a Mockingbird",
         author: "Harper Lee",
         description:
           "The story takes place during three years of the Great Depression in the fictional Maycomb, Alabama. This is a classic of modern American literature.",
-        isFavorite: true,
+        isFavorite: false,
       },
       {
         title: "Moby-Dick",
@@ -30,7 +30,7 @@ const app = new Vue({
         author: "J.D. Salinger",
         description:
           "The novel's plot is built around the experiences of the young protagonist Holden Caulfield, who struggles with feelings of disillusionment, isolation, and alienation in the society of the time.",
-        isFavorite: true,
+        isFavorite: false,
       },
       {
         title: "Pride and Prejudice",
